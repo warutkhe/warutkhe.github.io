@@ -83,7 +83,7 @@ author:
   name             : "Warut Khern-am-nuai"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Information Systems"
-  location         : "Desautels Faculty of Management, McGill University"
+  location         : "McGill University"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.ca/citations?user=MHA4WTwAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1028-1593"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
